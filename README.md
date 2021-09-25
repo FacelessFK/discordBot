@@ -1,2 +1,4 @@
 # discordBot
-my first javascript project .this is my discordBot repository and this bot can do kick and ban member of server , show member counter in status and more ... . i try to add some new feature to my discord bot latter and i hope this bot can help you 😊
+
+my first javascript project .this is my discordBot repository and this bot can do kick and ban member of server , show member counter in status and more ... . i try to add some new feature to my discord bot latter and i hope this bot can help you 😊 ,
+if you want to can help me to develop this bot and a lot thank you ❤
