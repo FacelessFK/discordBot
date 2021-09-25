@@ -7,6 +7,8 @@ require("dotenv").config();
 require("./status.js");
 // save some config from discord.js file from node_modules
 require("./deleteBadWord.js");
+
+require('./deletePersianBadWord.js')
 // require('./music.js')
 require("./shutDown.js");
 
